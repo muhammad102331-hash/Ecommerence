@@ -15,7 +15,7 @@ The Superstore retail company needed to understand its sales performance and pro
 - Finding areas of inefficiency where sales are high but profits are low
 
 ---
-![Dashboard Screenshot]
+![Dashboard Screenshot](https://github.com/muhammad102331-hash/Ecommerence/blob/main/pic.png)
 ## Key Findings & Answers to Business Questions
 
 ### 1. **Overall Business Performance**
